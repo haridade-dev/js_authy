@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "server_name": "Luiz silva",
+  "allowed_ips": [
+    "177.172.187.104",
+    "1.2.3.4"
+  ],
+  "message": "IP não autenticado. Entre em contato com Hari-Development."
+}
