@@ -6,12 +6,12 @@
   "licenses": [
     {
       "client": "HariDev",
-      "key": "lic-lt-0005-HYC196XZC",
+      "key": "lic-lt-0005-HYC196XZ",
       "type": "lt",
       "expires_in": "Licença vitalícia",
       "authorized_by": "haridade.dev",
       "active": true,
-      "allowed_ips": ["177.172.187.104"]
+      "allowed_ips": ["177.172.187.106"]
     }
   ]
 }
