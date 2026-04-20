@@ -1,17 +1,18 @@
 {
   "enabled": true,
-  "server_name": "Cidade do Crime RJ",
+  "server_name": "Hari - Deverlopment",
   "authorized_by": "haridade.dev",
-  "message": "IP não autenticado. Entre em contato com o suporte.",
+  "message": "Licença inválida ou IP não autorizado.",
   "licenses": [
     {
-      "client": "HariDev",
-      "key": "lic-lt-0005-HYC196XZ",
-      "type": "lt",
-      "expires_in": "Licença vitalícia",
-      "authorized_by": "haridade.dev",
+      "client": "Luis Dantas",
+      "key": "lic-cliente001",
+      "type": "mensal",
+      "expires_in": "1",
       "active": true,
-      "allowed_ips": ["177.172.187.106"]
+      "allowed_ips": [
+        "177.172.187.104"
+      ]
     }
   ]
 }
