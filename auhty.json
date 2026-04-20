@@ -1,9 +1,17 @@
 {
   "enabled": true,
-  "server_name": "Luiz silva",
-  "allowed_ips": [
-    "177.172.187.104",
-    "1.2.3.4"
-  ],
-  "message": "IP não autenticado. Entre em contato com Hari-Development."
+  "server_name": "Cidade do Crime RJ",
+  "authorized_by": "haridade.dev",
+  "message": "IP não autenticado. Entre em contato com o suporte.",
+  "licenses": [
+    {
+      "client": "HariDev",
+      "key": "lic-lt-0005-HYC196XZC",
+      "type": "lt",
+      "expires_in": "Licença vitalícia",
+      "authorized_by": "haridade.dev",
+      "active": true,
+      "allowed_ips": ["177.172.187.104"]
+    }
+  ]
 }
