@@ -6,12 +6,12 @@
   "licenses": [
     {
       "client": "Luis Dantas",
-      "key": "lic-cliente001fffffffff",
+      "key": "lic-cliente001",
       "type": "mensal",
       "expires_in": "1",
       "active": true,
       "allowed_ips": [
-        "177.172.187.104ffffffff"
+        "177.172.187.104"
       ]
     }
   ]
